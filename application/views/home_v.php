@@ -229,7 +229,7 @@
 				<div class="col-sm-3"></div>
 			</div>
 			
-			<h4>&copy 2014 TENDEAN RESIDENCE. ALL RIGHTS RESERVED.</h4>
+			<h4>&copy 2014 Test</h4>
 			<ul class="social-media">
 				<li><a href="#"><img src="assets/img/facebook-logo.png"></a></li>
 				<li><a href="#"><img src="assets/img/twitter-logo.png"></a></li>
